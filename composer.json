@@ -16,13 +16,13 @@
         }
     },
     "require": {
-        "php": ">=5.4",
-        "laravel/lumen-framework": "5.2.*",
+        "php": ">=7.0.0",
+        "laravel/lumen-framework": "5.5.*",
         "behat/behat": "~3.0",
         "behat/mink-browserkit-driver": "~1.2"
     },
     "require-dev": {
-        "symfony/symfony": "~2.6",
+        "symfony/symfony": "~3.0",
         "behat/mink-extension": "~2.0"
     }
 }
